@@ -15,7 +15,7 @@ This project is also **responsive**, ensuring a seamless user experience across 
 
 ## 🛠️ Technologies Used  
 - **Frontend:** HTML, CSS, JavaScript  
-
+- **Tools:** Git, GitHub, VS Code  
 
 ## 🚀 Features  
 - Upon landing on the website, a **movie poster** with a **play button** is shown.  
